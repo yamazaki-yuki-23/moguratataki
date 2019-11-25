@@ -1,6 +1,6 @@
 # moguratataki
 
-> My impressive Nuxt.js project
+> nuxt.jsで「もぐらたたき風ゲーム」を作成しました
 
 ## Build Setup
 
